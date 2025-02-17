@@ -1,7 +1,5 @@
 # Multi-Model RAG System
 
-The DATASET will be provided HERE since it is under process .
-
 ## Overview
 This project implements a **multi-model Retrieval-Augmented Generation (RAG) system** that combines **deep learning-based text classification**, **semantic search with FAISS**, and **transformer-based embeddings** to retrieve and classify textual data efficiently.
 
